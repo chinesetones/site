@@ -15,7 +15,9 @@ Example: 你觉得台湾会同意和大陆统一吗？
 
 Do you think Taiwan will agree to unite with the mainland? 
 
-{{site.baseurl}}/assets/audio/七十.mp3
+{% include embed-audio.html src="assets/audio/七十.mp3" %}
+
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
