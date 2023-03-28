@@ -2,6 +2,7 @@
 layout: post
 title:  "What are the differences between the four tones in Mandarin Chinese?"
 date:   2023-01-15 15:49:52 +0800
+permalink: /resources/differences-between-the-four-tones-in-mandarin-chinese
 ---
 
 The Chinese language is known for its use of tones, which play a crucial role in determining the meaning of a word. In Mandarin Chinese, there are four main tones: the first tone, the second tone, the third tone, and the fourth tone. Understanding these tones and how to use them correctly is essential for anyone who wishes to speak or learn Chinese.

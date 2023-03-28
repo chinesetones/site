@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Press Kit
+permalink: /press
 ---
 
 ## Ka: The fun way to master Chinese tones ##

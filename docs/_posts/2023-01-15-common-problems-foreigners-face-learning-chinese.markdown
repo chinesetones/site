@@ -2,6 +2,7 @@
 layout: post
 title:  "What are some common problems that foreigners face when learning Chinese?"
 date:   2023-01-15 15:49:52 +0800
+permalink: /resources/common-problems-faced-by-foreigners-when-learning-chinese
 ---
 
 

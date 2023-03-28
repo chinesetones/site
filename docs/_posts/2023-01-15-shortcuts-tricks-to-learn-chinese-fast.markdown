@@ -2,6 +2,7 @@
 layout: post
 title:  "Shortcuts and tricks to learn Chinese fast"
 date:   2023-01-15 15:49:52 +0800
+permalink: /resources/shortcuts-and-tricks-to-learn-chinese-fast
 ---
 
 

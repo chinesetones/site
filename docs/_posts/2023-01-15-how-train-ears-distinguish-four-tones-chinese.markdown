@@ -2,6 +2,7 @@
 layout: post
 title:  "How do you train your ears to distinguish between the four tones of Chinese?"
 date:   2023-01-15 15:49:52 +0800
+permalink: /resources/training-your-ears-to-distinguish-between-the-four-tones-in-chinese
 ---
 
 

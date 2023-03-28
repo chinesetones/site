@@ -2,6 +2,7 @@
 layout: post
 title:  "Why is it important to learn to tell apart the four tones of Mandarin Chinese?"
 date:   2023-01-15 15:49:52 +0800
+permalink: /resources/why-is-it-important-to-learn-to-tell-apart-the-four-tones-of-chinese
 ---
 
 
