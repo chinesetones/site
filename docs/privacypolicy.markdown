@@ -2,6 +2,8 @@
 layout: page
 title: Privacy Policy
 permalink: /privacypolicy
+show_in_header: false
+
 ---
 
 **tl;dr - I do not do any sketchy stuff with your data. The only thing I collect is analytics data, to be able to figure out where people get stuck in lessons and allow me to work on improving the app further. I do not track you on the Internet nor do I sell your data to advertisers.**

@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-### A painless and effective way to master Chinese tones. ###
+### An effective & painless way to master Chinese tones. ###
 
 Ka is a fun, fast-paced flashcards game that introduces you to the range of different sounds that make up the Chinese language and gives you plenty of listening and pronunciation practice via quick, snappy drills. 
 
