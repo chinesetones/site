@@ -257,7 +257,7 @@
 
 
 /**
-* NEW FEATURE
+* Feature List on Splash page
 **/
 
 .feature-col-wrapper {
@@ -293,5 +293,6 @@
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
+    padding-right: 0px;
   }
 }
