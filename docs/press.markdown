@@ -38,7 +38,7 @@ Each level takes just 2 to 3 minutes to complete.
 
 All of the content can be accessed for free.
 
-The engineer who created Ka formerly helped build Duolingo as its first-ever associate product manager in 2015.
+The engineer who created Ka formerly helped build Duolingo as its first-ever associate product manager.
 
 <br/>
 

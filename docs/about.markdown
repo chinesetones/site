@@ -23,13 +23,13 @@ My name is Kai. I'm an independent software developer based in Seattle.
 
 I grew up speaking both English and Chinese in Singapore.
 
-I developed this app because I saw that many Chinese learners were struggling with tones. It's one of the toughest things about the language to learn.
+I developed this app because I wanted to help Chinese learners who were struggling with tones. 
 
-The reason the app is named Ka has nothing to do with my own name (though Ka and Kai both sound similar).
+However, Despite the similarity with my name, the reason that this app is named Ka has absolutely nothing to do with it.
 
 Ka (卡) actually means card in Chinese. If you give the app a try, you'll see that swipeable cards feature prominently in its design. I thought that this could be a fun form factor to make learning pinyin and tones less painful.
 
-I've spent many hours building and polishing Ka. I hope it helps you out.
+I've spent many hours creating and polishing Ka. I hope it helps you out.
 
 If you enjoy it, I would appreciate an App Store review! Every rating counts, especially for a new app.
 
