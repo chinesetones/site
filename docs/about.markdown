@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Kai. I'm an independent software developer based in Seattle. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm originally from Singapore, and grew up speaking both English and Chinese.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I developed Ka because I saw that many Chinese learners were struggling with tones. It's one of the toughest things about the language to learn, and I've witnessed even advanced speakers getting tripped up by it.
 
+I thought that swipeable cards could be a fun form factor to make learning pinyin and tones less painful.
 
-[jekyll-organization]: https://github.com/jekyll
+I've spent many hours building and polishing Ka. I hope it helps you out.
+
+If you enjoy it, I would appreciate an App Store review! Every rating counts, especially for a new app.
+
+Please also feel free to write me at kai@autographlabs.com.
+<br><br>
+
+![Me]({{ "/assets/images/photo.png" | relative_url }})
