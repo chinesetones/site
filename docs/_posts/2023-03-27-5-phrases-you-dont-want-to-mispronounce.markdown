@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "5 Phrases You Don't Wanna Mess Up — Why Tones are CRITICAL in Chinese!"
+title:  "5 Phrases You Don't Wanna Mess Up — Why Tones are CRITICAL in Chinese! (Audio examples included)"
 date:   2023-03-27 15:49:52 +0800
-categories: tones examples pinyin
 ---
 
 It's easy to want to ignore tones when beginners first start out with Chinese.
 
-After all, Chinese is already challenging enough with its thousands of characters. We can put those pesky little diacritical marks aside for now, can't we?
+After all, Chinese is already challenging enough with its thousands of characters. Surely we can put those pesky little diacritical marks aside for now?
 
 That'd be a HUGE mistake.
 
