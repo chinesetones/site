@@ -23,8 +23,8 @@ email: kai@autographlabs.com
 description: Practice and master Chinese tones with Ka, a free iOS app. Learn to hear the difference and tell apart similar-sounding tones. Available for iPhone and iPad.
 
 url: "https://chinesetones.app" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+google_analytics: G-FP0ZNTDXNC
 
 collections:
   posts:
