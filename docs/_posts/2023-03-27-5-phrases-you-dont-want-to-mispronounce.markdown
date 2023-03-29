@@ -31,15 +31,15 @@ Nǐ juédé táiwān huì tóngyì hé dàlù tǒngyī ma?
 
 Do you think Taiwan will agree to unite with the mainland? 
 
-{% include embed-audio.html src="/assets/audio/你觉得台湾会同意和大陆统一吗.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/你觉得台湾会同意和大陆统一吗.mp3" %}
 <br>
 同意 tóngyì (agree):
 
-{% include embed-audio.html src="/assets/audio/同意.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/同意.mp3" %}
 <br>
 统一 tǒngyī (unite):
 
-{% include embed-audio.html src="/assets/audio/统一.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/统一.mp3" %}
 <br>
 <br>
 
@@ -54,15 +54,15 @@ Qíshí wǒ xiànzài zhǐyǒu qīshí kuài.
 
 Actually, I only have seventy dollars right now.
 
-{% include embed-audio.html src="/assets/audio/其实我现在只有七十块.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/其实我现在只有七十块.mp3" %}
 <br>
 其实 qíshí (actually):
 
-{% include embed-audio.html src="/assets/audio/其实.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/其实.mp3" %}
 <br>
 七十 qīshí (seventy):
 
-{% include embed-audio.html src="/assets/audio/七十.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/七十.mp3" %}
 <br>
 <br>
 
@@ -78,15 +78,15 @@ Yǒu wèntí dàjiā kěyǐ màn man shuō, bùyòng dǎjià.
 
 If there's any problems, we can talk through them; we don’t have to fight.
 
-{% include embed-audio.html src="/assets/audio/有问题大家可以慢慢说不用打架.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/有问题大家可以慢慢说不用打架.mp3" %}
 <br>
 大家 dàjiā (we/everyone):
 
-{% include embed-audio.html src="/assets/audio/大家.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/大家.mp3" %}
 <br>
 打架 dǎjià (fight):
 
-{% include embed-audio.html src="/assets/audio/打架.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/打架.mp3" %}
 <br>
 <br>
 
@@ -101,15 +101,15 @@ Zhè zhǐshì yīdiǎn jiǎndān de zhīshì.
 
 This is just a simple bit of knowledge.
 
-{% include embed-audio.html src="/assets/audio/这只是一点简单的知识.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/这只是一点简单的知识.mp3" %}
 <br>
 只是 zhǐshì (only/just):
 
-{% include embed-audio.html src="/assets/audio/只是.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/只是.mp3" %}
 <br>
 知识 zhīshì (knowledge):
 
-{% include embed-audio.html src="/assets/audio/知识.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/知识.mp3" %}
 <br>
 <br>
 
@@ -124,18 +124,14 @@ Gěi wǒ nǐ de diànhuà hàomǎ, hǎoma?
 
 Give me your phone number, alright?
 
-{% include embed-audio.html src="/assets/audio/给我你的电话号码好吗.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/给我你的电话号码好吗.mp3" %}
 <br>
 号码 hàomǎ (number):
 
-{% include embed-audio.html src="/assets/audio/号码.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/号码.mp3" %}
 <br>
 好吗 hǎoma (alright):
 
-{% include embed-audio.html src="/assets/audio/好吗.mp3" %}
+{% include embed-audio.html src="/assets/audio/5-phrases-similar-tones/好吗.mp3" %}
 <br>
 <br>
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
