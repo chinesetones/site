@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HSK1 words with confusing tones — Pay attention to these similar-sounding words!"
+title:  "HSK 1 words with confusing tones — Pay attention to these similar-sounding words!"
 date:   2023-03-29 15:39:52 +0800
 ---
 
@@ -12,7 +12,7 @@ For example, can you tell the difference in pronounciation between the 杯 in �
 
 If you don't speak a tone-based language, you'll want to pay special attention to these words, and practice their tones.
 
-I've combed through the *entire list of HSK 1 vocabulary* to pick out **19 groups of similar-sounding words**. For each group, I've included an example sentence so you can learn to hear the difference in tones in context.
+I've combed through the *entire list of HSK 1 vocabulary* to pick out **19 groups of similar-sounding words**. For each group, I've included an **example sentence** so you can learn to hear the difference in tones in context.
 
 Let's dive in!
 
