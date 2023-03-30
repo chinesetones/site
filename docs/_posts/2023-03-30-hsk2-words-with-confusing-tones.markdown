@@ -10,7 +10,7 @@ For example, can you tell the difference in pronounciation between the ç™½ in ç™
 
 If you don't speak a tone-based language, you'll want to pay special attention to these words, and practice their tones.
 
-I've combed through the *entire list of HSK 2 vocabulary* to pick out **groups of similar-sounding words**. For each group, I've included an **example sentence** so you can learn to hear the difference in tones in context.
+I've combed through the *entire list of HSK 2 vocabulary* to pick out **17 groups of similar-sounding words**. For each group, I've included an **example sentence** so you can learn to hear the difference in tones in context.
 
 Let's dive in!
 

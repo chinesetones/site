@@ -24,8 +24,6 @@ description: Practice and master Chinese tones with Ka, a free iOS app. Learn to
 
 url: "https://chinesetones.app" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: G-FP0ZNTDXNC
-
 collections:
   posts:
     output: true
