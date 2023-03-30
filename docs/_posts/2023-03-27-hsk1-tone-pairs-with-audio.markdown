@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HSK 1 Tone Pairs (all possible combinations) — with accompanying audio!"
-date:   2023-03-29 15:39:52 +0800
+date:   2023-03-27 15:39:52 +0800
 ---
 
 Tones are difficult, but tone pairs are even harder: you have to remember the tone for each word, and string both together in a natural manner, whilst trying not to mangle their pronunciation.
