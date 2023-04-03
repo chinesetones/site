@@ -1,0 +1,205 @@
+---
+layout: post
+title:  "妈 or 马? Maorma? Don't confuse your mom for a horse (audio examples included)"
+date:   2023-04-03 15:45:52 +0800
+---
+
+The syllable "ma" is commonly used to explain the four Chinese tones to beginners, because ma can either mean mother, numb, horse or scold, depending on which of the four tones is used.
+
+Here's a guide to each variation of "ma", complete with audio examples. See if you can recognize and hear the difference! Practice saying the words after you listen to the audio. 
+
+<br/>
+
+---
+
+<br/>
+<br />
+
+### mā (1st tone): Mother 妈
+
+**妈 mā mother**
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 妈不在家。** 
+
+Mom is not at home.
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/妈不在家.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 妈和我** 
+
+Mom and I.
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/妈和我.mp3" %}
+
+<br/>
+
+---
+
+<br/>
+<br />
+
+### má (2nd tone): numb 麻
+
+**麻 má numb**
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 麻辣** 
+
+Spicy and numbing (as in Sichuan food)
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/麻辣.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 麻雀** 
+
+Sparrow
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/麻雀.mp3" %}
+
+<br/>
+
+---
+
+<br/>
+<br />
+
+### mǎ (3nd tone): horse 马
+
+**马 mǎ horse**
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 骑马** 
+
+Ride a horse
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/骑马.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 斑马** 
+
+Striped horse (i.e. a zebra)
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/斑马.mp3" %}
+
+<br/>
+
+---
+
+<br/>
+<br />
+
+### mà (4th tone): scold 骂
+
+**骂 mà scold**
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 骂人** 
+
+To scold someone
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/骂人.mp3" %}
+
+<br/>
+<br/>
+
+**Example: 他被老师骂。** 
+
+He was scolded by the teacher.
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/他被老师骂.mp3" %}
+
+<br/>
+
+---
+
+<br />
+<br />
+
+### Quiz Time! ###
+
+**See if you can identify which ma each of the following 4 sentences contains: mā 妈, má 麻, mǎ 马 or mà 骂.**
+
+(answers at bottom of page)
+
+<br/>
+
+Question A:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/我喜欢吃麻辣.mp3" %}
+
+<br/>
+<br/>
+
+Question B:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/木马.mp3" %}
+
+<br/>
+<br/>
+
+Question C:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/爸妈.mp3" %}
+
+<br/>
+<br/>
+
+Question D:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/被骂.mp3" %}
+
+<br/>
+
+---
+
+<br />
+<br />
+
+### Quiz Answers ###
+
+<br/>
+
+Question A: má 麻 (full sentence: 我喜欢吃麻辣)
+
+Question B: mǎ 马 (full sentence: 木马)
+
+Question C: mā 妈 (full sentence: 爸妈)
+
+Question D: mà 骂 (full sentence: 被骂)
+
+Did you get it right? 
+
+<br/>
+
+---
+
+<br/>
+<br/>
+
+Finally, a *shameless plug*: 
+
+If you haven't tried out our app yet, you might want to give it a spin. It offers a fun & easy way to learn and practice Chinese tones (and the first lesson teaches you how to recognize ma!)
