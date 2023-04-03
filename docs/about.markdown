@@ -10,7 +10,7 @@ Ka is a fun, fast-paced flashcards game that introduces you to the range of diff
 
 It is available on the [iOS App Store](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899) for download on iPhone and iPad.
 
-[Is there an Android version?](https://forms.gle/YnYYtbzV5qixa52J6)
+[Is there an Android app?](https://forms.gle/YnYYtbzV5qixa52J6)
 
 <br/>
 <hr/>
