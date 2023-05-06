@@ -10,7 +10,7 @@ Ka is an iOS app that helps people learning Chinese properly recognize and use t
 
 Mandarin Chinese is notoriously difficult to learn because it is a tonal language. Unlike English, the same syllable can have a totally different meaning based on the pitch used to pronounce it. For example, ma could mean either mother or horse — and it's certainly important to not confuse your mother (mā) for a horse (mǎ)!
 
-Ka makes learning Chinese tones easy and fun. It contains thousands of quick, snappy drills across 5 stages and 66 levels that help learners identify and tell apart similar tones. Each level introduces different words and their corresponding tones, and quizzes learners on their understanding. The experience is designed to be as intuitive as possible; it simply consists of cards that can be swiped either left or right. The word "Ka" means "card" in Chinese.
+Ka makes learning Chinese tones easy and fun. It contains thousands of quick, snappy drills across 6 stages and 80 levels that help learners identify and tell apart similar tones. Each level introduces different words and their corresponding tones, and quizzes learners on their understanding. The experience is designed to be as intuitive as possible; it simply consists of cards that can be swiped either left or right. The word "Ka" means "card" in Chinese.
 
 As learners advance, they collect stars, unlock collectibles and build a daily streak. These gamification elements help reduce the cognitive load and stress for non-native speakers trying to master Chinese tones.
 
