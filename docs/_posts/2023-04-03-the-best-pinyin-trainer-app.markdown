@@ -28,6 +28,8 @@ There are already a variety of mobile apps available to help you memorize charac
 
 This is where the Ka app shines: we're simply the [best pinyin trainer app](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899) to help you master the tone system. 
 
+[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+
 [![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
 
 **Pinyin is the standard romanization system for Mandarin Chinese.** If you want to learn Chinese, you'll have to master pinyin, and Ka is perfect for helping you do that. 
@@ -40,4 +42,3 @@ Best of all, you can use the app for free.
 
 **Don't wait any longer — [give Ka a spin today!](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)**
 
-[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
