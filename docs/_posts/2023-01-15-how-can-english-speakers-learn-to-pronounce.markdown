@@ -3,6 +3,7 @@ layout: post
 title:  "How English speakers can learn to pronounce Chinese words more accurately"
 date:   2023-01-15 15:49:52 +0800
 permalink: /resources/how-english-speakers-can-learn-to-pronounce-chinese-words-more-accurately
+author: "Kai Loh"
 ---
 
 Learning to pronounce Chinese words accurately can be a difficult task for English speakers, as the two languages have very different sound systems and pronunciation patterns. However, with the right approach and techniques, it is possible for English speakers to improve their Chinese pronunciation and speak more like a native.

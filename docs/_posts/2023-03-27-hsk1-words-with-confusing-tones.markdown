@@ -2,6 +2,7 @@
 layout: post
 title:  "HSK 1 words with confusing tones — Pay attention to these similar-sounding words!"
 date:   2023-03-27 15:39:52 +0800
+author: "Kai Loh"
 ---
 
 HSK 1 may be the lowest rung on the Chinese proficiency ladder, but don't dismiss it as a piece of cake. 

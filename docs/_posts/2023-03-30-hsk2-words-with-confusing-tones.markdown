@@ -2,6 +2,7 @@
 layout: post
 title:  "HSK 2 words with confusing tones — Practice with Audio and Example Sentences"
 date:   2023-03-30 10:10:52 +0800
+author: "Kai Loh"
 ---
 
 One particularly tricky thing about HSK 2 (and Chinese in general): there are many words with the same syllable but different tones that could trip you up.

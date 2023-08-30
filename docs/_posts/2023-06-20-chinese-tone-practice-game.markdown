@@ -3,6 +3,7 @@ layout: post
 title:  "The Best Chinese Tone Practice Game"
 date:   2023-06-20 09:58:52 +0800
 permalink: /resources/best-chinese-tone-practice-game
+author: "Kai Loh"
 ---
 
 Chinese is a hard language because it contains tones.
@@ -21,8 +22,8 @@ It contains gamification elements like streaks, collectible cards and cute drago
 
 Don't dread the tones in Chinese. Give Ka a try, and you'll find them to be a breeze.
 
-[Download Ka on the App Store](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899) and take your Chinese to the next level.
+[Download Ka on the App Store](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8) and take your Chinese to the next level.
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
-[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)

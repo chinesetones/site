@@ -2,6 +2,7 @@
 layout: post
 title:  "HSK 1 Tone Pairs (all possible combinations) — with accompanying audio!"
 date:   2023-03-27 15:39:52 +0800
+author: "Kai Loh"
 ---
 
 Tones are difficult, but tone pairs are even harder: you have to remember the tone for each word, and string both together in a natural manner, whilst trying not to mangle their pronunciation.
@@ -10,7 +11,7 @@ Whether you're studying hard for the HSK exam, or whether you just want to get a
 
 I hope this comes in useful!
 
-PS - As always, you can get additional practice on tones in by [downloading our app](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899). It's free to use, and gives you an effective & fun way to master the tones.
+PS - As always, you can get additional practice on tones in by [downloading our app](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8). It's free to use, and gives you an effective & fun way to master the tones.
 
 <br/>
 <hr/>

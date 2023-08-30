@@ -8,7 +8,7 @@ permalink: /about
 
 Ka is a fun, fast-paced flashcards game that introduces you to the range of different sounds that make up the Chinese language and gives you plenty of listening and pronunciation practice via quick, snappy drills. 
 
-It is available on the [iOS App Store](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899) for download on iPhone and iPad.
+It is available on the [iOS App Store](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8) for download on iPhone and iPad.
 
 [Is there an Android app?](https://forms.gle/YnYYtbzV5qixa52J6)
 

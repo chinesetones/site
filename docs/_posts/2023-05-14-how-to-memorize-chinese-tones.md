@@ -2,6 +2,7 @@
 layout: post
 title:  "How to memorize Chinese tones"
 date:   2023-05-14 11:34:00 +0800
+author: "Kai Loh"
 ---
 
 The best way to memorize Chinese tones is to treat each tone as part of the word. Whenever you learn a new word, remember three pieces of information: how to write the characters, what they mean, and what they sound like.
@@ -35,14 +36,14 @@ The pinyin is just an aid to help you get to the right tone. Ultimately, what ma
 
 And you remember the sound by listening to it repeatedly!
 
-An easy, effective way to help you commit the sounds of various Chinese characters to memory is the [Ka Chinese tones app](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899).
+An easy, effective way to help you commit the sounds of various Chinese characters to memory is the [Ka Chinese tones app](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8).
 
 It features hundreds of levels to help you remember the tones of different characters. You'll stop mixing up tones and start speaking pitch-perfect Chinese.
 
 The app is built to **feel like a game**. It has over a hundred levels, and you'll find yourself swiping and breezing through bite-sized tone practice exercises whilst collecting fun things and upgrading your dragon mascot.
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 Use it for just a few minutes a day, but keep at it. By the time you reach the final stages of the app, you'll have achieved completely mastery in tones. Very soon, all your pinyin-related struggles will feel like a thing of the past.
 
-Best of all, Ka is **free**. With its engaging games and exercises, [Ka makes remembering tones feel like a fun challenge rather than a boring, tedious task.](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+Best of all, Ka is **free**. With its engaging games and exercises, [Ka makes remembering tones feel like a fun challenge rather than a boring, tedious task.](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)

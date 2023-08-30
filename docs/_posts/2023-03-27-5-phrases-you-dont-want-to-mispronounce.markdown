@@ -2,6 +2,7 @@
 layout: post
 title:  "5 Phrases You Don't Wanna Mess Up — Why Tones are CRITICAL in Chinese! (Audio examples included)"
 date:   2023-03-27 15:49:52 +0800
+author: "Kai Loh"
 ---
 
 It's easy to want to ignore tones when beginners first start out with Chinese.

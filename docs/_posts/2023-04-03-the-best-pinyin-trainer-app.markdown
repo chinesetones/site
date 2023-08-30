@@ -2,6 +2,7 @@
 layout: post
 title:  "The BEST Pinyin Trainer App: Master Chinese Tones Easily"
 date:   2023-04-03 15:55:52 +0800
+author: "Kai Loh"
 ---
 
 So you're learning Mandarin Chinese? 
@@ -26,9 +27,9 @@ For example, the word for mother is 妈 (mā). If you say it with the wrong tone
 
 There are already a variety of mobile apps available to help you memorize characters, but not a ton for helping you with tones. 
 
-This is where the Ka app shines: we're simply the [best pinyin trainer app](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899) to help you master the tone system. 
+This is where the Ka app shines: we're simply the [best pinyin trainer app](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8) to help you master the tone system. 
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **Pinyin is the standard romanization system for Mandarin Chinese.** If you want to learn Chinese, you'll have to master pinyin, and Ka is perfect for helping you do that. 
 
@@ -38,6 +39,6 @@ Best of all, you can use the app for free.
 
 (Disclaimer: The app contains an optional in-app purchase and I'd be thrilled if you decide to support me by making a purchase. But even if you don't, you can still access all the content for free.)
 
-**Don't wait any longer — [give Ka a spin today!](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)**
+**Don't wait any longer — [give Ka a spin today!](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)**
 
-[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots2.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)

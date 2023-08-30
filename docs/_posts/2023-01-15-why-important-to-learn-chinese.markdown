@@ -3,6 +3,7 @@ layout: post
 title:  "Why is it important to learn Chinese?"
 date:   2023-01-15 15:49:52 +0800
 permalink: /resources/why-is-it-important-to-learn-to-speak-chinese
+author: "Kai Loh"
 ---
 
 

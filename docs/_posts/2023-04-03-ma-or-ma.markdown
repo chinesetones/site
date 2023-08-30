@@ -2,6 +2,7 @@
 layout: post
 title:  "妈 or 马? Maorma? Don't confuse your mom for a horse (audio examples included)"
 date:   2023-04-03 15:45:52 +0800
+author: "Kai Loh"
 ---
 
 The syllable "ma" is commonly used to explain the four Chinese tones to beginners, because ma can either mean mother, numb, horse or scold, depending on which of the four tones is used.

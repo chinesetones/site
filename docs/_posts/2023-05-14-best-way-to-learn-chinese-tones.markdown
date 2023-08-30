@@ -2,6 +2,7 @@
 layout: post
 title:  "What is the best way to learn Chinese tones?"
 date:   2023-05-14 11:17:00 +0800
+author: "Kai Loh"
 ---
 
 The best way to learn Chinese tones is to use the Ka app. It contains hundreds of levels to help you learn and practice Mandarin Chinese tones in a fun, stress-free way. Best of all, it's FREE.
@@ -30,8 +31,8 @@ You'll earn points and discover mystery collectibles. You'll build a multi-day s
 
 Ka is fun, bright and engaging. And it works. 
 
-So why not **[give it a try and take your Chinese to the next level?](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)**
+So why not **[give it a try and take your Chinese to the next level?](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)**
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 

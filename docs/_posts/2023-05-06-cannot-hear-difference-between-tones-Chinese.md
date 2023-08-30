@@ -2,6 +2,7 @@
 layout: post
 title:  "Help! I cannot hear the difference between tones in Chinese"
 date:   2023-05-06 12:43:00 +0800
+author: "Kai Loh"
 ---
 
 Have you ever struggled with hearing the difference between tones in Mandarin Chinese? You're not alone! As a tonal language, Mandarin Chinese can be tricky for learners who are not used to distinguishing between different pitches in their language. But fear not, there are ways to improve your tone recognition skills.
@@ -19,9 +20,9 @@ Remember, mastering tones is crucial for speaking Mandarin Chinese fluently and 
 
 ***I'm biased, but if you're looking for a fun and effective way to learn and practice Mandarin Chinese tones, I recommend giving Ka a try.** Ka is a free app that focuses specifically on tone recognition and practice exercises. With its engaging games and exercises, Ka makes learning tones feel like a fun challenge rather than a tedious task.
 
-Whether you're just starting out or looking to improve your existing skills, Ka is a fantastic tool for mastering Mandarin Chinese tones. So why not **[give it a try and take your language skills to the next level?](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)**
+Whether you're just starting out or looking to improve your existing skills, Ka is a fantastic tool for mastering Mandarin Chinese tones. So why not **[give it a try and take your language skills to the next level?](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)**
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 
 

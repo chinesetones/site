@@ -20,7 +20,7 @@ Ka is available for iPhone and iPad. It is suitable for beginner and intermediat
 ](https://drive.google.com/drive/folders/10kcpcaMkkwHMs8SICXtvYdWmJrZxTvRz?usp=share_link)
 
 
-[App Store URL](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899?uo=4)
+[App Store URL](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 <br/>
 
@@ -98,4 +98,4 @@ Contact email: [kai@autographlabs.com](mailto:kai@autographlabs.com)
 
 ## App download URL ##
 
-[https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899?uo=4](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899?uo=4)
+[https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8?uo=4](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)

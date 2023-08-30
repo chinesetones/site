@@ -3,6 +3,7 @@ layout: post
 title:  "Mastering the pronunciation of Chinese words"
 date:   2023-01-15 15:49:52 +0800
 permalink: /resources/mastering-the-pronunciation-of-chinese-words
+author: "Kai Loh"
 ---
 
 

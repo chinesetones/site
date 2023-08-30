@@ -3,6 +3,7 @@ layout: post
 title:  "Challenges that English speakers face when learning the 4 tones of Chinese"
 date:   2023-01-15 15:49:52 +0800
 permalink: /resources/challenges-that-english-speakers-face-when-learning-the-4-tones-of-chinese
+author: "Kai Loh"
 ---
 
 Learning to speak Chinese can be a daunting task for English speakers, especially when it comes to mastering the four tones of the language. In Chinese, a single word can have multiple meanings depending on the tone used to pronounce it. This means that mastering the tones is crucial for clear communication and understanding.

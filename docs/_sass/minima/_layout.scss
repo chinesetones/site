@@ -199,8 +199,19 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
+  font-size: $base-font-size;
+  color: darken($grey-color, 20%);
+}
+
+.p-author {
+  font-size: $base-font-size;
+  font-weight: 700;
+  color: darken($grey-color, 40%);
+}
+
+.dt-published {
+  font-weight: 500;
+  color: darken($grey-color, 20%);
 }
 
 .post-link {
@@ -219,8 +230,7 @@
 
 .post-title {
   @include relative-font-size(2.625);
-  letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.1;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -229,8 +239,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
-  h2 {
+  
+  h2 { 
     @include relative-font-size(2);
 
     @include media-query($on-laptop) {
