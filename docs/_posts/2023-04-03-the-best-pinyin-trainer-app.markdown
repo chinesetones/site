@@ -39,9 +39,9 @@ When **beginners** start out in Chinese, they are often unable to even hear the 
 
 **Intermediate learners** with a few months of exposure under their belt fare a bit better. They can pinpoint the difference when listening to words with different tones, and they can recite the four tones in sequence rather accurately.
 
-However, this comes with the caveat that they can only do so in isolation — a single word or character at a time. When it comes to phrases and sentences, coupled with native-level speaking speeds, intermediate learners struggle to understand very much at all.
+But this comes with the caveat that they can only do so in isolation — a single word or character at a time. When it comes to phrases and sentences, coupled with native-level speaking speeds, intermediate learners struggle to understand very much at all.
 
-**Advanced learners** are furthest along in the journey to mastering tones. They may even have had experience living in China or Taiwan, and they can prononuce words rather accurately and catch most native-level speech. However, even advanced learners frequently trip up — sometimes, they just use the wrong tone, a mistake that a native-level speaker would never make.
+**Advanced learners** are furthest along in the journey to mastering tones. They may even have had experience living in China or Taiwan, and they can prononuce words rather accurately and catch most native-level speech. However, even they still get tripped up, often by using the wrong tone, a mistake that a native-level speaker would never make.
 
 Whether you're a beginner, intermediate or advanced learner, tones are something you have to work on constantly.
 
@@ -57,6 +57,9 @@ The quickest way to start learning tones is to train your ears to accurately hea
 
 The best part? As you improve in your listening, your pronunciation of tones will also level up — demonstrated by years and years of [language acquisition research](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/can-perception-training-improve-the-production-of-second-language-phonemes-a-metaanalytic-review-of-25-years-of-perception-training-research/57401D28450902EE96659AD10AA11488)!
 
+
+{% include note.html header="TIP" note="Training your listening is the best way to get better at both recognizing and producing tones." %}
+
 #### Practicing tones using your mobile phone ####
 
 There aren't a lot of great options out there when it comes to learning and practicing tones. Sure, you could watch YouTube videos repeatedly, but those quickly get boring after a while. Plus, you're only passively consuming media, not producing anything yourself.
@@ -69,9 +72,18 @@ Ka is the [best pinyin trainer app](https://apps.apple.com/app/apple-store/id644
 
 When you use Ka, you'll gain exposure to a wide variety of sounds and syllables in Chinese. The app contains thousands of audio recordings and features a fun, gamified interface. You'll find yourself tapping and swiping cards and breezing through levels while getting repeated listening and recognition practice in. 
 
-Best of all, you can use the app for free.
+#### Features of Ka ####
 
-(Disclaimer: The app contains an optional in-app purchase and I'd be thrilled if you decide to support me by making a purchase. But even if you don't, you can still access all the content for free.)
+* 100+ levels of content, with each level focusing on a specific syllable
+* Practice tones in isolation, as well as in context within phrases and sentences
+* Learn to recognize the slight differences in pronunciation between tones
+* Familiarize yourself with pinyin, the system used to romanize Chinese characters
+* Pick up new words and expand your vocabulary as you practice tones
+* Fun, gamified interface to keep you motivated
+* Earn points and challenge yourself to clear a level without making any mistakes
+* Build a streak and develop a habit of practicing your tones daily
+* Hunt for 48 special collectible cards within the app
+* Free to use, with an optional in-app purchase
 
 **Don't wait any longer — [give Ka a spin today!](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)**
 

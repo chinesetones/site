@@ -244,6 +244,28 @@
     border-radius: 20px;
   }
 
+  .note-box {
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color: #E4F2FF;
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 30px;
+  }
+
+  .note-box-header {
+    font-weight: 900;
+    @include relative-font-size(0.8);
+    margin-bottom: 3px;
+  }
+
+  .note-box-content {
+    font-weight: 500;
+    margin-bottom: 0px;
+  }
+
+
+
   h2 { 
     @include relative-font-size(2);
 
