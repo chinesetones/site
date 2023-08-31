@@ -2,6 +2,7 @@
 layout: page
 title: Press Kit
 permalink: /press
+show_in_header: false
 ---
 
 ## Ka: The fun way to master Chinese tones ##
