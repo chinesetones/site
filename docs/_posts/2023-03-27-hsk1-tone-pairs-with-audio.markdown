@@ -5,6 +5,8 @@ date:   2023-03-27 15:39:52 +0800
 author: "Kai Loh"
 ---
 
+[![HSK 1]({{ "/assets/images/hsk1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
 Tones are difficult, but tone pairs are even harder: you have to remember the tone for each word, and string both together in a natural manner, whilst trying not to mangle their pronunciation.
 
 Whether you're studying hard for the HSK exam, or whether you just want to get additional practice in for your tones, here's a COMPLETE list of all the tone pairs from the HSK 1 vocabulary list, grouped according to tone combinations.

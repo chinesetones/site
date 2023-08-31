@@ -5,6 +5,8 @@ date:   2023-03-30 10:10:52 +0800
 author: "Kai Loh"
 ---
 
+[![HSK 2]({{ "/assets/images/hsk2.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
 One particularly tricky thing about HSK 2 (and Chinese in general): there are many words with the same syllable but different tones that could trip you up.
 
 For example, can you tell the difference in pronounciation between the 白 in 白色 and the 百 in 百万? Both are written as "bei" in pinyin, but they have different tones (2nd vs 3rd tones) and completely different meanings. (And to make things even more confusing, the chinese charactes also look almost the same...)

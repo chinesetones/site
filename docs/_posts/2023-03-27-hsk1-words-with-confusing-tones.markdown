@@ -5,6 +5,8 @@ date:   2023-03-27 15:39:52 +0800
 author: "Kai Loh"
 ---
 
+[![HSK 1]({{ "/assets/images/hsk1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
 HSK 1 may be the lowest rung on the Chinese proficiency ladder, but don't dismiss it as a piece of cake. 
 
 One particularly tricky thing about HSK1 (and Chinese in general): there are many words with the same syllable but different tones that could trip you up.

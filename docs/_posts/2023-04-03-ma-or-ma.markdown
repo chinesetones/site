@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "妈 or 马? Maorma? Don't confuse your mom for a horse (audio examples included)"
+title:  "妈 or 马? Maorma? Don't confuse your mom for a horse"
 date:   2023-04-03 15:45:52 +0800
 author: "Kai Loh"
 ---
+
+[![Maorma?]({{ "/assets/images/maorma.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 The syllable "ma" is commonly used to explain the four Chinese tones to beginners, because ma can either mean mother, numb, horse or scold, depending on which of the four tones is used.
 
@@ -16,7 +18,9 @@ Here's a guide to each variation of "ma", complete with audio examples. See if y
 <br/>
 <br />
 
-### mā (1st tone): Mother 妈
+## First Tone = mā
+
+[![First Tone]({{ "/assets/images/four-tones/first-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **妈 mā mother**
 
@@ -47,7 +51,9 @@ Mom and I.
 <br/>
 <br />
 
-### má (2nd tone): numb 麻
+## Second Tone = má
+
+[![Second Tone]({{ "/assets/images/four-tones/second-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **麻 má numb**
 
@@ -78,7 +84,9 @@ Sparrow
 <br/>
 <br />
 
-### mǎ (3nd tone): horse 马
+## Third Tone = mǎ
+
+[![Third Tone]({{ "/assets/images/four-tones/third-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **马 mǎ horse**
 
@@ -109,7 +117,9 @@ Striped horse (i.e. a zebra)
 <br/>
 <br />
 
-### mà (4th tone): scold 骂
+## Fourth Tone = mà
+
+[![Fourth Tone]({{ "/assets/images/four-tones/fourth-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **骂 mà scold**
 
@@ -140,33 +150,26 @@ He was scolded by the teacher.
 <br />
 <br />
 
-### Quiz Time! ###
+## Quiz Time! ##
 
-**See if you can identify which ma each of the following 4 sentences contains: mā 妈, má 麻, mǎ 马 or mà 骂.**
+[![Quiz Time]({{ "/assets/images/quiz-time.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
+**See if you can identify which ma each of the following 4 sentences contains: mā 妈, má 麻, mǎ 马 or mà 骂.** 
 
 (answers at bottom of page)
-
-<br/>
 
 Question A:
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/我喜欢吃麻辣.mp3" %}
-
 <br/>
-<br/>
-
 Question B:
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/木马.mp3" %}
-
-<br/>
 <br/>
 
 Question C:
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/爸妈.mp3" %}
-
-<br/>
 <br/>
 
 Question D:
@@ -180,9 +183,9 @@ Question D:
 <br />
 <br />
 
-### Quiz Answers ###
+## Quiz Answers ##
 
-<br/>
+[![Quiz Time]({{ "/assets/images/answers.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 Question A: má 麻 (full sentence: 我喜欢吃麻辣)
 
