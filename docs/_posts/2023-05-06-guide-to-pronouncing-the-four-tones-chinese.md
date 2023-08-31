@@ -2,7 +2,6 @@
 layout: post
 title:  "A short, simple guide to pronouncing the four tones in Chinese"
 date:   2023-05-06 12:43:00 +0800
-author: "Kai Loh"
 ---
 
 Mandarin Chinese is a tonal language, meaning that the meaning of a word can change depending on the tone used when it's pronounced. There are four tones in Mandarin Chinese, each represented by a diacritic mark above a vowel in pinyin, the Romanized script used to represent Chinese characters. Here's how to master each tone:
@@ -41,11 +40,11 @@ Remember, mastering the tones is essential to speaking Chinese fluently and bein
 <hr/>
 <br/>
 
-*** I'm biased, but if you're looking for a language learning app to help you practice Chinese tones, why not check out [Ka](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)?**
+*** I'm biased, but if you're looking for a language learning app to help you practice Chinese tones, why not check out [Ka](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)?**
 
 It's a fun, free way to learn and practice pinyin tones.
 
-[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+[![Screenshots]({{ "/assets/images/screenshots1.png" | relative_url }})](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)
 
 
 
