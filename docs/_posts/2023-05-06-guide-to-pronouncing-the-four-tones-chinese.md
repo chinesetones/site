@@ -2,6 +2,7 @@
 layout: post
 title:  "A short, simple guide to pronouncing the four tones in Chinese"
 date:   2023-05-06 12:43:00 +0800
+author: "Kai Loh"
 ---
 
 Mandarin Chinese is a tonal language, meaning that the meaning of a word can change depending on the tone used when it's pronounced. There are four tones in Mandarin Chinese, each represented by a diacritic mark above a vowel in pinyin, the Romanized script used to represent Chinese characters. Here's how to master each tone:
