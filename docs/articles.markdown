@@ -4,6 +4,6 @@
 
 layout: articles
 title: Blog
-permalink: /blog
-
+permalink: /resources
+description: "A blog for learners of Chinese, especially those struggling with tones"
 ---

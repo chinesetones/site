@@ -15,9 +15,7 @@ I hope this comes in useful!
 
 PS - As always, you can get additional practice on tones in by [downloading our app](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8). It's free to use, and gives you an effective & fun way to master the tones.
 
-<br/>
-<hr/>
-<br/>
+---
 
 ## 1st tone + 1st tone ##
 
@@ -189,9 +187,7 @@ PS - As always, you can get additional practice on tones in by [downloading our 
 </tbody>
 </table>
 
-<br/>
-<hr/>
-<br/>
+---
 
 ## 2nd tone + 1st tone ##
 
@@ -358,9 +354,7 @@ PS - As always, you can get additional practice on tones in by [downloading our 
 </tbody>
 </table>
 
-<br/>
-<hr/>
-<br/>
+---
 
 ## 3rd tone + 1st tone ##
 
@@ -512,9 +506,7 @@ PS - As always, you can get additional practice on tones in by [downloading our 
 </tbody>
 </table>
 
-<br/>
-<hr/>
-<br/>
+---
 
 ## 4th tone + 1st tone ##
 

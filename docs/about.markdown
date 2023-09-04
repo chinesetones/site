@@ -12,10 +12,7 @@ It is available on the [iOS App Store](https://apps.apple.com/app/apple-store/id
 
 [Is there an Android app?](https://forms.gle/YnYYtbzV5qixa52J6)
 
-<br/>
-<hr/>
-<br/>
-<br/>
+------
 
 ### Ka is built by Kai. ###
 

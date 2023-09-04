@@ -17,7 +17,9 @@ As a tonal language, Mandarin Chinese can be tricky for learners who are not use
 
 {% include note.html header="TIP" note="Tones are challenging for almost everyone learning Chinese, because, unlike Chinese, most of the world's languages do NOT contain tones."%}
 
-But fear not — here are several tried-and-tested ways to improve your tone recognition skills.
+And - despite its name - tones in Chinese are completely different from musical tones. As [I've explained in this article]({% post_url 2023-09-02-can-i-learn-chinese-if-im-tone-deaf %}), even if you think you are musically tone deaf, you CAN still pick up Chinese tones!
+
+Here are several tried-and-tested ways to improve your tone recognition skills.
 
 ### 1. Listen more intentionally
 
@@ -42,6 +44,18 @@ Start with individual words. Listen to audio recordings of native speakers say t
 To take things one step further, **record yourself** saying these words, and then play back the recording, comparing them to the pronunciation of the native speaker.
 
 This exercise can be remarkably effective. Start with words, then move on to phrases, and finally complete sentences.
+
+{% capture listening_practice %}
+I've created several lists of vocabulary complete with audio recordings for you to practice your tones.
+
+- [HSK 1 tone pairs with audio]({% post_url 2023-03-27-hsk1-tone-pairs-with-audio %})
+- [HSK 1 words with confusing tones]({% post_url 2023-03-27-hsk1-words-with-confusing-tones %})
+- [HSK 2 words with confusing tones]({% post_url 2023-03-30-hsk2-words-with-confusing-tones %})
+- [Mā or Mǎ? Don't confuse your mom for a horse]({% post_url 2023-04-03-ma-or-ma %})
+
+{% endcapture %}
+
+{% include note.html header="Extra Practice" note=listening_practice %}
 
 ### 3. Immerse yourself in a Chinese-speaking environment (YouTube works too)
 
@@ -73,10 +87,9 @@ Finally, don't be afraid to **ask for help** from native speakers or language tu
 
 Many native Chinese speakers are **extremely patient** with foreigners who are trying to learn their language. So when you ask them to repeat something slowly, or to help you correct your pronunciation, they'll often be smiling and happy to do so.
  
-**So don't worry too much — and embrace the challenge of tones!**
+**Don't overthink it! Tones are hard — but it's a challenge that you should embrace!**
 
-<hr/>
-<br/>
+---
 
 **I'm biased, but if you're looking for a fun and effective way to learn and practice Mandarin Chinese tones, I recommend giving the [Ka Chinese Tones app](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8) a try.** 
 

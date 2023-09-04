@@ -4,9 +4,8 @@ title:  "What are the 4 tones in Chinese? (audio examples included)"
 date:   2023-08-31 13:14:00 +0800
 author: "Kai Loh"
 permalink: /resources/what-are-the-four-tones-in-chinese
+image: "/assets/images/four-tones/4-tones.png"
 ---
-
-[![Four tones in Chinese]({{ "/assets/images/four-tones/4-tones.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 Every single character in Chinese is associated with a tone, and there are 4 tones in total.
 
@@ -77,6 +76,101 @@ Listen to the audio recording above and compare it with the audio recordings for
 The fourth tone is a **falling tone**. It starts high, and ends low. This is represented by the tone marker (`), which is a line that goes downwards.
 
 It's the tone that you use in English when giving commands or scolding someone. Imagine sternly telling a misbehaving kid to "stop!" — that's exactly how you'd say the fourth tone.
+
+---
+
+## Compare the 4 tones
+
+Let's listen to all 4 tones in sequence and compare them. 
+
+<table>
+<colgroup>
+<col width="20" />
+<col width="20" />
+<col width="60" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Pinyin</th>
+<th>Audio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">1</td>
+<td markdown="span">mā (妈 mother)</td>
+<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" %}</td>
+</tr>
+<tr>
+<td markdown="span">2</td>
+<td markdown="span">má (麻 spicy)</td>
+<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" %}</td>
+</tr>
+<tr>
+<td markdown="span">3</td>
+<td markdown="span">mǎ (马 horse)</td>
+<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" %}</td>
+</tr>
+<tr>
+<td markdown="span">4</td>
+<td markdown="span">mà (骂 scold)</td>
+<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" %}</td>
+</tr>
+</tbody>
+</table>
+
+## Quiz Time! ##
+
+[![Quiz Time]({{ "/assets/images/quiz-time.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
+It's time for a little quiz to see if you can identify these 4 tones. Listen to the following 4 audio snippets, and see if you can identify which ma tone each of them contains.
+
+**mā 妈, má 麻, mǎ 马 or mà 骂?** 
+
+(answers in next section)
+
+Question A:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/我喜欢吃麻辣.mp3" %}
+<br/>
+Question B:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/木马.mp3" %}
+<br/>
+
+Question C:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/爸妈.mp3" %}
+<br/>
+
+Question D:
+
+{% include embed-audio.html src="/assets/audio/ma-or-ma/被骂.mp3" %}
+
+<br/>
+
+## Quiz Answers ##
+
+[![Quiz Time]({{ "/assets/images/answers.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
+
+Question A: má 麻 (full sentence: 我喜欢吃麻辣)
+
+Question B: mǎ 马 (full sentence: 木马)
+
+Question C: mā 妈 (full sentence: 爸妈)
+
+Question D: mà 骂 (full sentence: 被骂)
+
+{% capture extra_tips %}
+Practice makes perfect — don't stress out if you didn't get it right this time. Here are some extra tips to help you:
+
+[Help! I cannot hear the difference between tones in Chinese]({% post_url 2023-05-06-cannot-hear-difference-between-tones-Chinese %})
+{% endcapture %}
+
+{% include note.html note=extra_tips %}
+
+---
 
 ## Some websites say there are 5 tones... so is it 4 or 5?
 Ask any Chinese person and they will say that Chinese has 4 tones. Any new word is taught in the context of these 4 tones. If you're a beginner or an intermediate learner of Chinese, that is all that you need to know for now — feel free to skip the rest of this section.

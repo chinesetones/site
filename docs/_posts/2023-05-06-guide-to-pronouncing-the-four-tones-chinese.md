@@ -37,8 +37,7 @@ To get the hang of these tones, it's important to practice with a native speaker
 
 Remember, mastering the tones is essential to speaking Chinese fluently and being understood by native speakers!
 
-<hr/>
-<br/>
+---
 
 *** I'm biased, but if you're looking for a language learning app to help you practice Chinese tones, why not check out [Ka](https://apps.apple.com/us/app/ka-chinese-tones-learn-pinyin/id6444140899)?**
 

@@ -1,5 +1,7 @@
 <div class="note-box">
+    {%- if include.header -%}
     <p class="note-box-header">{{ include.header }}</p>
-    <p class="note-box-content">{{ include.note }}</p>
+    {%- endif -%}
+    <p class="note-box-content">{{ include.note || markdownify }}</p>
 </div>
   
