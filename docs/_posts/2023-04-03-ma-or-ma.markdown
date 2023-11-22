@@ -11,12 +11,7 @@ The syllable "ma" is commonly used to explain the four Chinese tones to beginner
 
 Here's a guide to each variation of "ma", complete with audio examples. See if you can recognize and hear the difference! Practice saying the words after you listen to the audio. 
 
-<br/>
-
 ---
-
-<br/>
-<br />
 
 ## First Tone = mā
 
@@ -44,12 +39,7 @@ Mom and I.
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/妈和我.mp3" %}
 
-<br/>
-
 ---
-
-<br/>
-<br />
 
 ## Second Tone = má
 
@@ -77,12 +67,8 @@ Sparrow
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/麻雀.mp3" %}
 
-<br/>
 
 ---
-
-<br/>
-<br />
 
 ## Third Tone = mǎ
 
@@ -110,12 +96,7 @@ Striped horse (i.e. a zebra)
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/斑马.mp3" %}
 
-<br/>
-
 ---
-
-<br/>
-<br />
 
 ## Fourth Tone = mà
 
@@ -143,12 +124,7 @@ He was scolded by the teacher.
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/他被老师骂.mp3" %}
 
-<br/>
-
 ---
-
-<br />
-<br />
 
 ## Quiz Time! ##
 
@@ -176,12 +152,7 @@ Question D:
 
 {% include embed-audio.html src="/assets/audio/ma-or-ma/被骂.mp3" %}
 
-<br/>
-
 ---
-
-<br />
-<br />
 
 ## Quiz Answers ##
 
@@ -197,12 +168,7 @@ Question D: mà 骂 (full sentence: 被骂)
 
 Did you get it right? 
 
-<br/>
-
 ---
-
-<br/>
-<br/>
 
 Finally, a *shameless plug*: 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What are the 4 tones in Chinese? (audio examples included)"
-date:   2023-08-31 13:14:00 +0800
+date:   2023-11-22 17:11:00 +0800
 author: "Kai Loh"
 permalink: /resources/what-are-the-four-tones-in-chinese
 image: "/assets/images/four-tones/4-tones.png"
@@ -30,7 +30,7 @@ Let's look at the first tone again, with the example 妈 (mā), which means moth
 [![First tone in Chinese]({{ "/assets/images/four-tones/first-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **Listen to the 1st tone:**
-{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" %}
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" caption="mā" %}
 
 You'll hear that the pitch of the word is **relatively high**, and also **flat** throughout the word without any changes. This matches how the tone marker (¯) was written — **a flat, straight line**.
 
@@ -41,7 +41,7 @@ You'll hear that the pitch of the word is **relatively high**, and also **flat**
 [![Second tone in Chinese]({{ "/assets/images/four-tones/second-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **Listen to the 2nd tone:**
-{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" %}
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" caption="má" %}
 
 The second tone is a **rising pitch**. It starts at a low pitch and rises up to a higher pitch — similar to the tone you use when asking a question in English. 
 
@@ -54,7 +54,7 @@ Fittingly, it is written using the ´ tone marker,  which matches the rise of a 
 [![Third tone in Chinese]({{ "/assets/images/four-tones/third-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
 **Listen to the 3rd tone:**
-{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" %}
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" caption="mǎ" %}
 
 The third tone is sometimes the most confusing of it all, because it contains a change in pitch halfway during the tone!
 
@@ -70,8 +70,8 @@ Listen to the audio recording above and compare it with the audio recordings for
 
 [![Fourth tone in Chinese]({{ "/assets/images/four-tones/fourth-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
-**Listen to the 4th tone:**
-{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" %}
+**Listen to the 4th tone:**`à`
+{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" caption="mà" %}
 
 The fourth tone is a **falling tone**. It starts high, and ends low. This is represented by the tone marker (`), which is a line that goes downwards.
 
@@ -98,24 +98,24 @@ Let's listen to all 4 tones in sequence and compare them.
 </thead>
 <tbody>
 <tr>
-<td markdown="span">1</td>
-<td markdown="span">mā (妈 mother)</td>
-<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" %}</td>
+<td>1</td>
+<td>mā (妈 mother)</td>
+<td>{% include embed-audio.html src="/assets/audio/ma-or-ma/ma1.mp3" %}</td>
 </tr>
 <tr>
-<td markdown="span">2</td>
-<td markdown="span">má (麻 spicy)</td>
-<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" %}</td>
+<td>2</td>
+<td>má (麻 spicy)</td>
+<td>{% include embed-audio.html src="/assets/audio/ma-or-ma/ma2.mp3" %}</td>
 </tr>
 <tr>
-<td markdown="span">3</td>
-<td markdown="span">mǎ (马 horse)</td>
-<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" %}</td>
+<td>3</td>
+<td>mǎ (马 horse)</td>
+<td>{% include embed-audio.html src="/assets/audio/ma-or-ma/ma3.mp3" %}</td>
 </tr>
 <tr>
-<td markdown="span">4</td>
-<td markdown="span">mà (骂 scold)</td>
-<td markdown="span">{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" %}</td>
+<td>4</td>
+<td>mà (骂 scold)</td>
+<td>{% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" %}</td>
 </tr>
 </tbody>
 </table>

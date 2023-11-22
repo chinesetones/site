@@ -3,6 +3,7 @@ layout: post
 title:  "An embarrassing situation when an American used the wrong tone at a restaurant in Beijing"
 date:   2023-01-15 15:49:52 +0800
 permalink: /resources/an-embarrassing-situation-in-china-with-using-the-wrong-tones
+author: "Kai Loh"
 ---
 
 

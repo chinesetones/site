@@ -107,7 +107,7 @@ I've written an extensive guide on ways to learn Chinese tones. Check it out at 
 {% capture ways_to_learn %}
 - [Best way to learn Chinese tones]({% post_url 2023-05-14-best-way-to-learn-chinese-tones %})
 - [How to memorize Chinese tones]({% post_url 2023-05-14-how-to-memorize-chinese-tones %})
-- [Guide to pronouncing the four tones]({% post_url 2023-05-06-guide-to-pronouncing-the-four-tones-chinese %})
+- [Guide to pronouncing the four tones]({% post_url 2023-08-31-what-are-the-four-tones-in-chinese %})
 - [Is there an app to practice Chinese tones?]({% post_url 2023-05-14-is-there-an-app-to-practice-chinese-tones %})
 {% endcapture %}
 

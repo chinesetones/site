@@ -13,14 +13,14 @@ The **three pieces of information** you'll need to remember are: (1) the charact
 
 <table>
 <tr>
-<td markdown="span">(1) Characters</td>
-<td markdown="span">(2) Meaning</td>
-<td markdown="span">(3) Sound</td>
+<td>(1) Characters</td>
+<td>(2) Meaning</td>
+<td>(3) Sound</td>
 </tr>
 <tr>
-<td markdown="span">高兴</td>
-<td markdown="span">happy</td>
-<td markdown="span">{% include small-embed-audio.html src="/assets/audio/hsk1-tone-pairs/高兴.mp3" %}</td>
+<td>高兴</td>
+<td>happy</td>
+<td>{% include embed-audio.html src="/assets/audio/hsk1-tone-pairs/高兴.mp3" %}</td>
 </tr>
 </table>
 
