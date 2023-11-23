@@ -370,14 +370,7 @@
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
-
-.audio-button:hover {
-  background:#1489E8;
-}
-
-.audio-button:focus {
-  background:#1489E8;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .audio-button:active {
