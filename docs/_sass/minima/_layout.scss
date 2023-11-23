@@ -372,6 +372,14 @@
   user-select: none;
 }
 
+.audio-button:hover {
+  background:#1489E8;
+}
+
+.audio-button:focus {
+  background:#1489E8;
+}
+
 .audio-button:active {
   box-shadow: 0 0px 0 #0C71C4;
   margin:15px 10px 5px 10px;
