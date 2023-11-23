@@ -1,85 +1,118 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<a href="https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8">
-    <img src="{{"/assets/images/splash.png" | relative_url }}" />
-</a>
+  {%- include head.html -%}
 
-<br />
-<br />
-</h1>
+  <body ontouchstart="">
 
-<h1>The fun way to learn and practice Chinese tones.</h1>
+    {%- include header.html -%}
 
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <a href="https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8">
+                <img src="{{"/assets/images/splash-new.png" | relative_url }}" />
+            </a>
+        </div>
 
-<a href="https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8?itsct=apps_box_badge&amp;itscg=30200"
-    style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1667433600"
-        alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-<br /><br />
+        <div class="splash-blue">
+            <div class="wrapper">
+                <br/>
+                <h1 class="splash-text">The fun way to learn & practice Chinese tones.</h1>
+                <br/>
+                <a href="https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8?itsct=apps_box_badge&amp;itscg=30200"
+                style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
+                <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1667433600"
+                    alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+                <br/><br/>
+                <h2 class="splash-text">** FREE! Yes, you read that right. **</h1>
+                <br/>
+            </div>
+        </div>
+        <div class="wrapper">
+            <div class="feature-col-wrapper">
+                <h1 class="splash-text">Why use Ka?</h1>
+                <br/>
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/hearing.png" alt="hearing"/>
+                        <span style="vertical-align:middle">Sharpen your ear.</span>
+                    </h3>
+                    <p>The most difficult thing in Chinese is tones. Learn to recognize the 4 tones, and remember when to use which.</p>
+                </div>
+            
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/question-mark.png" alt="question-mark"/>
+                        <span style="vertical-align:middle">Shi, Si or Xi?</span>
+                    </h3>
+                    <p>Train your ear to pick up nuances in pronunciation. Be able to tell the difference between similar syllables and sounds.</p>
+                </div>
+            
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/joystick.png" alt="joystick"/>
+                        <span style="vertical-align:middle">Fun and addictive.</span>
+                    </h3>
+                    <p>Quick, snappy drills that make learning a breeze. Earn stars and level up while getting repeated Chinese tones practice!</p>
+                </div>
+            
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/voice-recognition-scan.png" alt="voice-recognition-scan"/>
+                        <span style="vertical-align:middle">Native-level speech.</span>
+                    </h3>
+                    <p>Research shows that being better able to hear sounds will improve your pronunication ability. Work towards a more natural Chinese accent!</p>
+                </div>
+            
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/delete-sign.png" alt="delete-sign"/>
+                        <span style="vertical-align:middle">No more mistakes.</span>
+                    </h3>
+                    <p>No more confusing mā (mother) for mǎ (horse), or shāng hài (hurt) for shàng hǎi (Shanghai)!</p>
+                </div>
+            
+                <div class="feature-col">
+                    <h3 class="feature-col-header">
+                        <img style="vertical-align:middle" width="30" height="30" src="https://img.icons8.com/arcade/64/christmas-star.png" alt="christmas-star"/>
+                        <span style="vertical-align:middle">Free to use.</span>
+                    </h3>
+                    <p>Yes, you read that right. Download the app today and start having fun learning Chinese tones & practicing pinyin!</p>
+                </div>
+            
+            </div>
 
+            <br />
+        
+            <div class="feature-col-wrapper">
+                <h1 class="splash-text">Read what our users have to say.</h1>
+                <br />
+            
+                    <h3 class="feature-col-header">"Great App, Truly" ⭐⭐⭐⭐⭐</h3>
+                    <p>“I discovered this app through a subreddit... I decided to check it out and am immensely impressed! It really does help with tone recognition, and it’s got such a fun UI. It is easy to stay interested.”</p>
+                    <p>— App Store review, Dec 2022</p>
+            
+                    <br/><br/>
+                    <h3 class="feature-col-header">"Thank you for creating this app!!!" ⭐⭐⭐⭐⭐</h3>
+                    <p>“Love it!!! It really helps to learn the different tones when they are grouped together like this! I’ve been searching for this type of learning strategy for so long…Thank you! Thank you! Thank you!!!”</p>
+                    <p>— App Store review, Mar 2023</p>
+                    <br/><br/>
+                    <h3 class="feature-col-header">"Excellent app for learning tones in Mandarin!" ⭐⭐⭐⭐⭐</h3>
+                    <p>“Excellent app to help you learn tones, especially in a broader context than standalone syllables or words. Hope to see more levels in the future!”</p>
+                    <p>— App Store review, Feb 2023</p>
+            </div>
+            
+            <br />
+        </div>
+       
+        
+       
+        
+    </main>
 
-<a href="https://forms.gle/YnYYtbzV5qixa52J6">Is there an Android app?</a>
+    {%- include footer.html -%}
+  </body>
 
-<br />
-<br />
-<br />
+</html>
 
-<div class="feature-col-wrapper">
-    <h1>Why use Ka?</h1>
-    <br/>
-    <div class="feature-col">
-        <h3 class="feature-col-header">Sharpen your ear.</h3>
-        <p>The most difficult thing in Chinese is tones. Learn to recognize the 4 tones, and remember when to use which.</p>
-    </div>
-
-    <div class="feature-col">
-        <h3 class="feature-col-header">Shi, Si or Xi?</h3>
-        <p>Train your ear to pick up nuances in pronunciation. Be able to tell the difference between similar syllables and sounds.</p>
-    </div>
-
-    <div class="feature-col">
-        <h3 class="feature-col-header">Fun and addictive.</h3>
-        <p>Quick, snappy drills that make learning a breeze. Earn stars and level up while getting repeated Chinese tones practice!</p>
-    </div>
-
-    <div class="feature-col">
-        <h3 class="feature-col-header">Sound like a native speaker.</h3>
-        <p>Research shows that being better able to hear sounds will improve your pronunication ability. Work towards a more natural Chinese accent!</p>
-    </div>
-
-    <div class="feature-col">
-        <h3 class="feature-col-header">Stop embarrassing yourself.</h3>
-        <p>No more confusing mā (mother) for mǎ (horse), or shāng hài (hurt) for shàng hǎi (Shanghai)!</p>
-    </div>
-
-    <div class="feature-col">
-        <h3 class="feature-col-header">Free to use.</h3>
-        <p>Yes, you read that right. Download the app today and start having fun learning Chinese tones & practicing pinyin!</p>
-    </div>
-
-</div>
-
-<br />
-
-<div class="feature-col-wrapper">
-    <h1>Read what our users have to say.</h1>
-    <br />
-
-        <h3 class="feature-col-header">"Great App, Truly" ⭐⭐⭐⭐⭐</h3>
-        <p>“I discovered this app through a subreddit... I decided to check it out and am immensely impressed! It really does help with tone recognition, and it’s got such a fun UI. It is easy to stay interested.”</p>
-        <p>— App Store review, Dec 2022</p>
-
-        <br/><br/>
-        <h3 class="feature-col-header">"Thank you for creating this app!!!" ⭐⭐⭐⭐⭐</h3>
-        <p>“Love it!!! It really helps to learn the different tones when they are grouped together like this! I’ve been searching for this type of learning strategy for so long…Thank you! Thank you! Thank you!!!”</p>
-        <p>— App Store review, Mar 2023</p>
-        <br/><br/>
-        <h3 class="feature-col-header">"Excellent app for learning tones in Mandarin!" ⭐⭐⭐⭐⭐</h3>
-        <p>“Excellent app to help you learn tones, especially in a broader context than standalone syllables or words. Hope to see more levels in the future!”</p>
-        <p>— App Store review, Feb 2023</p>
-</div>
-
-<br />
 
