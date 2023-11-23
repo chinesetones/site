@@ -366,6 +366,10 @@
   box-shadow: 0 6px 0 #0C71C4;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .audio-button:active {

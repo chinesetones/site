@@ -70,7 +70,7 @@ Listen to the audio recording above and compare it with the audio recordings for
 
 [![Fourth tone in Chinese]({{ "/assets/images/four-tones/fourth-tone.png" | relative_url }})](https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8)
 
-**Listen to the 4th tone:**`à`
+**Listen to the 4th tone:**
 {% include embed-audio.html src="/assets/audio/ma-or-ma/ma4.mp3" caption="mà" %}
 
 The fourth tone is a **falling tone**. It starts high, and ends low. This is represented by the tone marker (`), which is a line that goes downwards.
