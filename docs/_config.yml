@@ -44,7 +44,10 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - node_modules
+  - dev-web-pinyin-trainer
+
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

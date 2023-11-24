@@ -1,0 +1,43 @@
+{
+  "name": "dev-react-tool",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/web-pinyin-trainer/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "purge": "rm -rf ../web-pinyin-trainer/static && cp -fR ./build/* ../web-pinyin-trainer",
+    "frontmatter": "echo '---\ntitle: Web Pinyin Trainer\nlayout: base\n---\n' | cat - ../web-pinyin-trainer/index.html > temp && mv temp ../web-pinyin-trainer/index.html",
+    "deploy": "npm run purge && npm run frontmatter"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
