@@ -84,6 +84,86 @@ const allCombinations = [
             audio: "/assets/audio/challenge-audio/bai4.mp3",
         }
     ],
+    [
+        {
+            kanji: "班",
+            pinyin: "bān",
+            audio: "/assets/audio/challenge-audio/ban1.mp3",
+        }, 
+        {
+            kanji: "半",
+            pinyin: "bàn",
+            audio: "/assets/audio/challenge-audio/ban4.mp3",
+        },
+        {
+            kanji: "帮",
+            pinyin: "bāng",
+            audio: "/assets/audio/challenge-audio/bang1.mp3",
+        },
+        {
+            kanji: "棒",
+            pinyin: "bàng",
+            audio: "/assets/audio/challenge-audio/bang4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "保",
+            pinyin: "bǎo",
+            audio: "/assets/audio/challenge-audio/bao3.mp3",
+        }, 
+        {
+            kanji: "抱",
+            pinyin: "bào",
+            audio: "/assets/audio/challenge-audio/bao4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "杯",
+            pinyin: "bēi",
+            audio: "/assets/audio/challenge-audio/bei1.mp3",
+        }, 
+        {
+            kanji: "北",
+            pinyin: "běi",
+            audio: "/assets/audio/challenge-audio/bei3.mp3",
+        }, 
+        {
+            kanji: "被",
+            pinyin: "bèi",
+            audio: "/assets/audio/challenge-audio/bei4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "鼻",
+            pinyin: "bí",
+            audio: "/assets/audio/challenge-audio/bi2.mp3",
+        }, 
+        {
+            kanji: "比",
+            pinyin: "bǐ",
+            audio: "/assets/audio/challenge-audio/bi3.mp3",
+        }, 
+        {
+            kanji: "必",
+            pinyin: "bì",
+            audio: "/assets/audio/challenge-audio/bi4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "波",
+            pinyin: "bō",
+            audio: "/assets/audio/challenge-audio/bo1.mp3",
+        }, 
+        {
+            kanji: "柏",
+            pinyin: "bó",
+            audio: "/assets/audio/challenge-audio/bo2.mp3",
+        }
+    ],
 ];
 
 function generateChallenges() {

@@ -11,12 +11,8 @@ export const OptionStatus = {
   DISABLED: "disabled"
 }
 
-function Challenge({ audioFileName, options, answerPos, nextChallenge }) {
+function Challenge({ audioFileName, options, answerPos, nextChallenge, isHintOn, isShowingKanji }) {
   const [optionStatuses, setOptionStatuses] = useState([OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED]);
-
-  useEffect(() => {
-    setOptionStatuses([OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED]);
-  }, [audioFileName]);
 
   function handleOptionClick(pos) {
 		const newOptionStatuses = optionStatuses.map((status, index) => {
@@ -60,13 +56,13 @@ function Challenge({ audioFileName, options, answerPos, nextChallenge }) {
 
   return (
 	  <div>
-      <h4>Select the correct pinyin for this sound.</h4>
+      <h3 className="challenge-question">Which pinyin matches this sound?</h3>
       <SoundButton fileName={audioFileName} isCorrect={optionStatuses.includes(OptionStatus.CORRECT)}/>
       <div class="options-container">
-        <Option option={options[0]} status={optionStatuses[0]} handleClick={() => handleOptionClick(0)}/>
-        <Option option={options[1]} status={optionStatuses[1]} handleClick={() => handleOptionClick(1)}/>
-        { options.length >= 3 && <Option option={options[2]} status={optionStatuses[2]} handleClick={() => handleOptionClick(2)}/>}
-        { options.length >= 4 && <Option option={options[3]} status={optionStatuses[3]} handleClick={() => handleOptionClick(3)}/>}
+        <Option option={options[0]} status={optionStatuses[0]} handleClick={() => handleOptionClick(0)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>
+        <Option option={options[1]} status={optionStatuses[1]} handleClick={() => handleOptionClick(1)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>
+        { options.length >= 3 && <Option option={options[2]} status={optionStatuses[2]} handleClick={() => handleOptionClick(2)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>}
+        { options.length >= 4 && <Option option={options[3]} status={optionStatuses[3]} handleClick={() => handleOptionClick(3)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>}
       </div>
       <SubmitButton 
         text={optionStatuses.includes(OptionStatus.CORRECT) ? "NEXT QUESTION" : "CHECK ANSWER"} 

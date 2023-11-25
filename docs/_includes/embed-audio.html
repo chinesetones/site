@@ -1,11 +1,4 @@
 <div class="audio-div">
-<script>
-  window.onload = function() {
-    if(/iP(hone|ad)/.test(window.navigator.userAgent)) {
-        document.body.addEventListener('touchstart', function() {}, false);
-    }
-}
-</script>
 <audio id="audio_{{ include.src }}" src="{{ include.src | relative_url }}" onended="Array.from(document.getElementsByClassName('audio_{{ include.src }}_playing')).forEach((el) => {
   el.style.opacity='0';
 });"></audio>
