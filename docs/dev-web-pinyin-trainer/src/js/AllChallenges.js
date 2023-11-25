@@ -514,6 +514,264 @@ const allCombinations = [
             audio: "/assets/audio/challenge-audio/lang4.mp3",
         }
     ],
+    [
+        {
+            kanji: "劳",
+            pinyin: "láo",
+            audio: "/assets/audio/challenge-audio/lao2.mp3",
+        }, 
+        {
+            kanji: "老",
+            pinyin: "lǎo",
+            audio: "/assets/audio/challenge-audio/lao3.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "连",
+            pinyin: "lián",
+            audio: "/assets/audio/challenge-audio/lian2.mp3",
+        }, 
+        {
+            kanji: "脸",
+            pinyin: "liǎn",
+            audio: "/assets/audio/challenge-audio/lian3.mp3",
+        }, 
+        {
+            kanji: "练",
+            pinyin: "liàn",
+            audio: "/assets/audio/challenge-audio/lian4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "凉",
+            pinyin: "liáng",
+            audio: "/assets/audio/challenge-audio/liang2.mp3",
+        }, 
+        {
+            kanji: "两",
+            pinyin: "liǎng",
+            audio: "/assets/audio/challenge-audio/liang3.mp3",
+        }, 
+        {
+            kanji: "亮",
+            pinyin: "liàng",
+            audio: "/assets/audio/challenge-audio/liang4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "没",
+            pinyin: "méi",
+            audio: "/assets/audio/challenge-audio/mei2.mp3",
+        }, 
+        {
+            kanji: "美",
+            pinyin: "měi",
+            audio: "/assets/audio/challenge-audio/mei3.mp3",
+        }, 
+        {
+            kanji: "妹",
+            pinyin: "mèi",
+            audio: "/assets/audio/challenge-audio/mei4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "迷",
+            pinyin: "mí",
+            audio: "/assets/audio/challenge-audio/mi2.mp3",
+        }, 
+        {
+            kanji: "米",
+            pinyin: "mǐ",
+            audio: "/assets/audio/challenge-audio/mi3.mp3",
+        }, 
+        {
+            kanji: "蜜",
+            pinyin: "mì",
+            audio: "/assets/audio/challenge-audio/mi4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "七",
+            pinyin: "qī",
+            audio: "/assets/audio/challenge-audio/qi1.mp3",
+        }, 
+        {
+            kanji: "旗",
+            pinyin: "qí",
+            audio: "/assets/audio/challenge-audio/qi2.mp3",
+        }, 
+        {
+            kanji: "起",
+            pinyin: "qǐ",
+            audio: "/assets/audio/challenge-audio/qi3.mp3",
+        }, 
+        {
+            kanji: "气",
+            pinyin: "qì",
+            audio: "/assets/audio/challenge-audio/qi4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "千",
+            pinyin: "qiān",
+            audio: "/assets/audio/challenge-audio/qian1.mp3",
+        }, 
+        {
+            kanji: "钱",
+            pinyin: "qián",
+            audio: "/assets/audio/challenge-audio/qian2.mp3",
+        }, 
+        {
+            kanji: "浅",
+            pinyin: "qiǎn",
+            audio: "/assets/audio/challenge-audio/qian3.mp3",
+        }, 
+        {
+            kanji: "欠",
+            pinyin: "qiàn",
+            audio: "/assets/audio/challenge-audio/qian4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "枪",
+            pinyin: "qiāng",
+            audio: "/assets/audio/challenge-audio/qiang1.mp3",
+        }, 
+        {
+            kanji: "强",
+            pinyin: "qiáng",
+            audio: "/assets/audio/challenge-audio/qiang2.mp3",
+        }, 
+        {
+            kanji: "抢",
+            pinyin: "qiǎng",
+            audio: "/assets/audio/challenge-audio/qiang3.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "轻",
+            pinyin: "qīng",
+            audio: "/assets/audio/challenge-audio/qing1.mp3",
+        }, 
+        {
+            kanji: "晴",
+            pinyin: "qíng",
+            audio: "/assets/audio/challenge-audio/qing2.mp3",
+        }, 
+        {
+            kanji: "请",
+            pinyin: "qǐng",
+            audio: "/assets/audio/challenge-audio/qing3.mp3",
+        }, 
+        {
+            kanji: "庆",
+            pinyin: "qìng",
+            audio: "/assets/audio/challenge-audio/qing4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "三",
+            pinyin: "sān",
+            audio: "/assets/audio/challenge-audio/san1.mp3",
+        }, 
+        {
+            kanji: "伞",
+            pinyin: "sǎn",
+            audio: "/assets/audio/challenge-audio/san3.mp3",
+        }, 
+        {
+            kanji: "散",
+            pinyin: "sàn",
+            audio: "/assets/audio/challenge-audio/san4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "烧",
+            pinyin: "shāo",
+            audio: "/assets/audio/challenge-audio/shao1.mp3",
+        }, 
+        {
+            kanji: "勺",
+            pinyin: "sháo",
+            audio: "/assets/audio/challenge-audio/shao2.mp3",
+        }, 
+        {
+            kanji: "少",
+            pinyin: "shǎo",
+            audio: "/assets/audio/challenge-audio/shao3.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "师",
+            pinyin: "shī",
+            audio: "/assets/audio/challenge-audio/shi1.mp3",
+        }, 
+        {
+            kanji: "十",
+            pinyin: "shí",
+            audio: "/assets/audio/challenge-audio/shi2.mp3",
+        }, 
+        {
+            kanji: "使",
+            pinyin: "shǐ",
+            audio: "/assets/audio/challenge-audio/shi3.mp3",
+        }, 
+        {
+            kanji: "是",
+            pinyin: "shì",
+            audio: "/assets/audio/challenge-audio/shi4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "收",
+            pinyin: "shōu",
+            audio: "/assets/audio/challenge-audio/shou1.mp3",
+        }, 
+        {
+            kanji: "熟",
+            pinyin: "shóu",
+            audio: "/assets/audio/challenge-audio/shou2.mp3",
+        }, 
+        {
+            kanji: "手",
+            pinyin: "shǒu",
+            audio: "/assets/audio/challenge-audio/shou3.mp3",
+        }, 
+        {
+            kanji: "瘦",
+            pinyin: "shòu",
+            audio: "/assets/audio/challenge-audio/shou4.mp3",
+        }
+    ],
+    [
+        {
+            kanji: "司",
+            pinyin: "sī",
+            audio: "/assets/audio/challenge-audio/si1.mp3",
+        }, 
+        {
+            kanji: "死",
+            pinyin: "sǐ",
+            audio: "/assets/audio/challenge-audio/si3.mp3",
+        }, 
+        {
+            kanji: "四",
+            pinyin: "sì",
+            audio: "/assets/audio/challenge-audio/si4.mp3",
+        }
+    ],
 ];
 
 function generateChallenges() {

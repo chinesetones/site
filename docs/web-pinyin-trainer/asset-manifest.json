@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/web-pinyin-trainer/static/js/main.30eb210b.js",
+    "main.js": "/web-pinyin-trainer/static/js/main.ca9696cb.js",
     "static/js/787.a5c46012.chunk.js": "/web-pinyin-trainer/static/js/787.a5c46012.chunk.js",
     "index.html": "/web-pinyin-trainer/index.html",
-    "main.30eb210b.js.map": "/web-pinyin-trainer/static/js/main.30eb210b.js.map",
+    "main.ca9696cb.js.map": "/web-pinyin-trainer/static/js/main.ca9696cb.js.map",
     "787.a5c46012.chunk.js.map": "/web-pinyin-trainer/static/js/787.a5c46012.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.30eb210b.js"
+    "static/js/main.ca9696cb.js"
   ]
 }
