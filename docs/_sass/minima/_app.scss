@@ -24,7 +24,7 @@
 
 .pressible-button, .pressible-button:hover, .pressible-button:visited {
   display: block;
-  width: 50%;
+  width: 350px;
   margin: 10px 0px 10px 0px;
   padding: 20px 10px 15px 10px;
   text-align: center;
@@ -81,9 +81,9 @@
 
 .options-container {
   margin: 20px 0px 20px 0px;
-  width:320px;
+  width:350px;
   display:grid;
-  grid-template-columns: 150px 150px;
+  grid-template-columns: 165px 165px;
   grid-row: auto auto;
   grid-column-gap: 10px;
   grid-row-gap: 15px;
