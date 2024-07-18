@@ -7,27 +7,27 @@
         <div class="footer-col-wrapper">
 
 
-            <div class="footer-col footer-col-3">
+            <div class="footer-col">
 
                 <h2 class="footer-heading">KA CHINESE TONES APP</h2>
                 <a href="https://apps.apple.com/app/apple-store/id6444140899?pt=117273943&ct=web&mt=8?itsct=apps_box_badge&amp;itscg=30200"
-                    style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
+                    style="display: inline-block; overflow: hidden; border-radius: 13px; width: 241px; height: 80px;">
                     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1667433600"
-                        alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-                        
+                        alt="Download on the App Store" style="border-radius: 13px; width: 241px; height: 80px;"></a>
+                    &nbsp;&nbsp;
+                <a href="https://play.google.com/store/apps/details?id=com.autographlabs.kachinesetones"
+                style="display: inline-block; overflow: hidden; width: 270px; height: 80px;">
+                <img src="{{"/assets/images/google-play-badge.png" | relative_url }}" 
+                    alt="Download on the Play Store" style="width: 270px; height: 80px;"></a>
             </div>
 
-            <div class="footer-col footer-col-3">
-                
-
-                <p>{{- site.description | escape -}}</p>
-                <a href="https://forms.gle/YnYYtbzV5qixa52J6" style="color:#FFFFFF; font-weight: bold;">Looking for Android?</a>
-                
+            <div class="footer-col">
+                <p>{{- site.description | escape -}}</p>                
             </div>
             
 
             <div class="footer-col">
-            <br/><br/>
+            <b>
             {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
@@ -35,7 +35,7 @@
                 }}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             {%- endif -%}
             {%- endfor -%}
-            
+            </b>
             </div>
         </div>
 
