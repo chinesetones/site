@@ -12,6 +12,12 @@ It is available on the [iOS App Store](https://apps.apple.com/app/apple-store/id
 
 ------
 
+### Support ###
+
+If you encounter any issues while using the app or have any suggestions on how I can make it better, please feel free to write me at kai@autographlabs.com.
+
+------
+
 ### Ka is built by Kai. ###
 
 My name is Kai. I'm an independent software developer based in Seattle. 
@@ -26,7 +32,6 @@ I've spent many hours creating and polishing Ka. I hope it helps you out.
 
 If you enjoy it, I would appreciate an App Store or Play Store review! Every rating counts, especially for a new app.
 
-Please also feel free to write me at kai@autographlabs.com.
-<br><br>
+<br>
 
 ![Me]({{ "/assets/images/photo.png" | relative_url }})
