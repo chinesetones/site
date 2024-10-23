@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VFKVW3AL7F.autographlabs.pinyinswipe",
+        "paths": [
+          "/uni/*"
+        ]
+      }
+    ]
+  }
+}
