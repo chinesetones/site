@@ -48,6 +48,9 @@ exclude:
   - node_modules
   - dev-web-pinyin-trainer
 
+include:
+  - .well-known
+
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
