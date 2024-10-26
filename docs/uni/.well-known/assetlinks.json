@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.autographlabs.kachinesetones",
-      "sha256_cert_fingerprints":
-      ["AA:C8:4D:3C:1A:BB:F8:61:7F:54:40:2D:C7:9E:8D:60:BA:7B:46:41:74:55:8A:F2:21:A7:B5:ED:5B:59:16:1F"]
-    }
-  }]
