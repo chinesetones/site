@@ -51,6 +51,7 @@ exclude:
 
 include:
   - .well-known
+  - uni/.well-known
 
 #   - .sass-cache/
 #   - .jekyll-cache/
