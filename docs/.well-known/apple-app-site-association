@@ -5,7 +5,8 @@
       {
         "appID": "VFKVW3AL7F.autographlabs.pinyinswipe",
         "paths": [
-          "/uni/*"
+          "/uni/*",
+          "/uni"
         ]
       }
     ]
