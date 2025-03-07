@@ -2,6 +2,7 @@ import Option from "./Option";
 import SubmitButton from "./SubmitButton";
 import SoundButton from "./SoundButton";
 import { useState, useEffect } from 'react';
+import { translations } from './translations';
 
 export const OptionStatus = {
   UNSELECTED: "unselected",
@@ -11,7 +12,7 @@ export const OptionStatus = {
   DISABLED: "disabled"
 }
 
-function Challenge({ audioFileName, options, answerPos, nextChallenge, isHintOn, isShowingKanji }) {
+function Challenge({ audioFileName, options, answerPos, nextChallenge, isHintOn, isShowingKanji, language = 'en' }) {
   const [optionStatuses, setOptionStatuses] = useState([OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED,OptionStatus.UNSELECTED]);
 
   function handleOptionClick(pos) {
@@ -56,7 +57,7 @@ function Challenge({ audioFileName, options, answerPos, nextChallenge, isHintOn,
 
   return (
 	  <div>
-      <h3 className="challenge-question">Which pinyin matches this sound?</h3>
+      <h3 className="challenge-question">{translations[language].challenge.question}</h3>
       <SoundButton fileName={audioFileName} isCorrect={optionStatuses.includes(OptionStatus.CORRECT)}/>
       <div class="options-container">
         <Option option={options[0]} status={optionStatuses[0]} handleClick={() => handleOptionClick(0)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>
@@ -65,7 +66,9 @@ function Challenge({ audioFileName, options, answerPos, nextChallenge, isHintOn,
         { options.length >= 4 && <Option option={options[3]} status={optionStatuses[3]} handleClick={() => handleOptionClick(3)} isHintOn={isHintOn} isShowingKanji={isShowingKanji}/>}
       </div>
       <SubmitButton 
-        text={optionStatuses.includes(OptionStatus.CORRECT) ? "NEXT QUESTION" : "CHECK ANSWER"} 
+        text={optionStatuses.includes(OptionStatus.CORRECT) 
+          ? translations[language].challenge.nextQuestion 
+          : translations[language].challenge.checkAnswer} 
         isDisabled={!optionStatuses.includes(OptionStatus.SELECTED) && !optionStatuses.includes(OptionStatus.CORRECT)} 
         handleClick={handleSubmitClick}/>
     </div>

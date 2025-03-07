@@ -5,8 +5,21 @@ function Option({ option, status, handleClick, isHintOn, isShowingKanji }) {
 
   function onClick() {
     if (isHintOn) {
-      document.getElementById(option.pinyin).play();
-      document.getElementById(option.pinyin + "_playing").style.opacity = '1';
+      const audioElement = document.getElementById(option.pinyin);
+      if (audioElement) {
+        audioElement.load();
+        const playPromise = audioElement.play();
+        
+        if (playPromise !== undefined) {
+          playPromise
+            .then(() => {
+              document.getElementById(option.pinyin + "_playing").style.opacity = '1';
+            })
+            .catch(error => {
+              console.log("Audio play failed:", error);
+            });
+        }
+      }
     }
     if (status == "selected" || status == "unselected") {
       handleClick();
@@ -45,6 +58,7 @@ function Option({ option, status, handleClick, isHintOn, isShowingKanji }) {
       <audio
         id={option.pinyin}
         src={option.audio}
+        preload="auto"
         onEnded={() => {
           let id = option.pinyin + "_playing"
           document.getElementById(id).style.opacity = '0';

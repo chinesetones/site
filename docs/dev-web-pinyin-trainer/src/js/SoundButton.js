@@ -7,7 +7,7 @@ function SoundButton({ fileName, isCorrect }) {
     <div className="soundbutton-audio-div">
       <audio 
         id="sound_button" 
-        src={ fileName } 
+        src={`${fileName}`} 
         onEnded={()=> {
           document.getElementById('sound_button_playing').style.opacity = '0';
         }}

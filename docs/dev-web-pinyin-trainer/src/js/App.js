@@ -5,6 +5,7 @@ import { useState, useMemo } from 'react';
 import allChallenges from "./AllChallenges";
 import shuffle from './HelperFunctions';
 import HintToggle from "./HintToggle";
+import { translations } from './translations';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     return shuffle(allChallenges);
   }, []);
 	const [currChallengeIndex, setCurrChallengeIndex] = useState(0);
+	const language = process.env.REACT_APP_LANGUAGE || 'en';
 
 	function nextChallenge() {
 		setCurrChallengeIndex(currChallengeIndex+1);
@@ -23,20 +25,23 @@ function App() {
 
 	return (
 		<div>
+      <h2 style={{ fontFamily: "'M PLUS Rounded 1c', sans-serif", fontWeight: 900, color: "#1489E8" }}>
+        {translations[language].app.title}
+      </h2>
       <div className="sliders-container">
         <HintToggle
-          text="CHARACTERS"
+          text={translations[language].toggles.characters}
           isChecked={isShowingKanji}
           onToggle={ ()=> { setIsShowingKanji(!isShowingKanji) } }
         />
         <HintToggle
-          text="OPTION AUDIO"
+          text={translations[language].toggles.optionAudio}
           isChecked={isAudioHintOn}
           onToggle={ ()=> { setIsAudioHintOn(!isAudioHintOn) } }
         />
       </div>
 			{ currChallengeIndex < challenges.length ? 
-				<Challenge 
+				<Challenge language={language}
           key={challenge.options[challenge.answerIndex].audio}
 					audioFileName={challenge.options[challenge.answerIndex].audio} 
 					options={challenge.options}
@@ -46,7 +51,7 @@ function App() {
           isShowingKanji={isShowingKanji}
 				/> :
 				<div>
-					<p>You have finished all the questions! Refresh the page to attempt them again.</p>
+					<p>{translations[language].app.finished}</p>
 				</div>
 			}
 		</div>
