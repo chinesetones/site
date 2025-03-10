@@ -94,5 +94,38 @@ export const translations = {
       characters: "한자",
       optionAudio: "음성"
     }
+  },
+  es: {
+    challenge: {
+      question: "¿Qué escuchaste?",
+      checkAnswer: "COMPROBAR RESPUESTA",
+      nextQuestion: "SIGUIENTE"
+    },
+    app: {
+      title: "ENTRENADOR DE PINYIN",
+      noJavaScript: "Debes activar JavaScript para usar esta aplicación.",
+      finished: "¡Terminaste todas las preguntas! Recarga la página para intentarlo de nuevo."
+    },
+    toggles: {
+      characters: "CARACTERES",
+      optionAudio: "AUDIO OPCIONAL"
+    }
+  },
+  pt: {
+    challenge: {
+      question: "O que você ouviu?",
+      checkAnswer: "CONFIRMAR RESPOSTA",
+      nextQuestion: "PRÓXIMA PERGUNTA"
+    },
+    app: {
+      title: "TREINADOR DE PINYIN",
+      noJavaScript: "Ative o JavaScript para usar este aplicativo.",
+      finished: "Você concluiu todas as perguntas! Atualize a página para tentar novamente."
+    },
+    toggles: {
+      characters: "CARACTERES",
+      optionAudio: "ÁUDIO OPCIONAL"
+    }
   }
+  
 }; 
