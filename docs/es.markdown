@@ -27,7 +27,7 @@ features:
 
   - icon: https://img.icons8.com/arcade/64/joystick.png
     title: Divertido y adictivo.
-    description: Ejercicios rápidos y dinámicos que hacen que aprender sea mucho más fácil. ¡Gana estrellas y sube de nivel mientras practicas chino una y otra vez!
+    description: Ejercicios rápidos y divertidos que facilitan el aprendizaje. ¡Gana estrellas y sube de nivel mientras mejoras tu chino!
 
   - icon: https://img.icons8.com/arcade/64/voice-recognition-scan.png
     title: Habla naturalmente.

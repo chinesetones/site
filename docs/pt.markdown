@@ -27,7 +27,7 @@ features:
 
   - icon: https://img.icons8.com/arcade/64/joystick.png
     title: Divertido e viciante.
-    description: Exercícios rápidos e dinâmicos que tornam o aprendizado leve e envolvente. Ganhe estrelas e suba de nível enquanto pratica tons de chinês!
+    description: Aprenda com exercícios rápidos, ganhe estrelas e domine os tons do chinês!
 
   - icon: https://img.icons8.com/arcade/64/voice-recognition-scan.png
     title: Fale com naturalidade.
